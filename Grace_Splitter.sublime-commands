@@ -1,31 +1,31 @@
 [{
-    "caption": "GraceSplitter: SFK Knife Split",
+    "caption": "Grace Splitter: SFK Knife Split",
     "command": "grace_splitter_sfk_knife"
 }, {
-    "caption": "GraceSplitter: Goetz's File Splitter",
+    "caption": "Grace Splitter: Goetz's File Splitter",
     "command": "grace_splitter_gfsplit"
 }, {
-    "caption": "GraceSplitter: GNU Core Split",
+    "caption": "Grace Splitter: GNU Core Split",
     "command": "grace_splitter_split"
 }, {
-    "caption": "GraceSplitter: Split And Open Last File",
+    "caption": "Grace Splitter: Split And Open Last File",
     "command": "grace_splitter_split_and_open_last"
 }, {
-    "caption": "GraceSplitter: Custom Splitter",
+    "caption": "Grace Splitter: Custom Splitter",
     "command": "grace_splitter_custom_splitter"
 }, {
-    "caption": "GraceSplitter: Docs: SFK Knife Split",
+    "caption": "Grace Splitter: Docs: SFK Knife Split",
     "command": "grace_splitter_sfk_knife_docs"
 }, {
-    "caption": "GraceSplitter: Docs: Goetz's File Splitter",
+    "caption": "Grace Splitter: Docs: Goetz's File Splitter",
     "command": "grace_splitter_gfsplit_docs"
 }, {
-    "caption": "GraceSplitter: Docs: GNU Core Split",
+    "caption": "Grace Splitter: Docs: GNU Core Split",
     "command": "grace_splitter_split_docs"
 }, {
-    "caption": "GraceSplitter: Docs: Split And Open Last File",
+    "caption": "Grace Splitter: Docs: Split And Open Last File",
     "command": "grace_splitter_split_and_open_last_docs"
 }, {
-    "caption": "GraceSplitter: Docs: Custom Splitter",
+    "caption": "Grace Splitter: Docs: Custom Splitter",
     "command": "grace_splitter_custom_splitter_docs"
 }]
