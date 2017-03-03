@@ -1,0 +1,4 @@
+{
+	// Custom command for file split
+	"gracesplitter_cmd_options": "sfk split 100k -yes -text"
+}
